@@ -7,7 +7,7 @@
 Campers for rent is a service/application that facilitates booking campers for
 various purposes. It comprises three main pages:
 
-- Homepage: Provides a general description of the services offered by the
+- <u>Homepage</u>: Provides a general description of the services offered by the
   company. This page likely serves as an entry point for users to learn about
   the services and offerings.
 
