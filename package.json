@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://EvgenBilous.github.io/campers-for-rent",
+  "homepage": "https://evgenbilous.github.io/campers-for-rent",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
